@@ -8,9 +8,6 @@ After a year and a half of working as a junior software developer, I’ve decide
 
 ## 🚀 What I’m Working On
 
-- Building personal projects that leverage new technologies and concepts.
-- Exploring new trends and integrating them into my projects.
-
 Here are some of the projects I’m currently working on:
 ### ♟️ Chess application
 In July 2024, I decided to dive back into a fun project: reimagining a chess game I built way back in one of my first Java courses. This time around, I’m starting from scratch and using all the cool skills I’ve picked up since then. I’m planning to break the app into containerized chunks, so I can play around with different frontend and backend tech in a super flexible way. It’s going to be a great mix of revisiting old ideas and trying out new ones—basically, a playground for experimenting and learning as I go!
