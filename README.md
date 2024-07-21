@@ -16,3 +16,10 @@ In July 2024, I decided to dive back into a fun project: reimagining a chess gam
 ## 📫 How to Get in Touch
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech. I’m always open to new ideas and opportunities!
+
+- **Email:** [ste.vejvoda@gmail.com](mailto:ste.vejvoda@gmail.com)
+- **LinkedIn:** [Štěpán Vejvoda](https://www.linkedin.com/in/stepan-vejvoda)
+
+---
+
+> **Disclaimer:** This GitHub profile represents my personal projects and explorations. The content here is not necessarily reflective of my professional work or current job responsibilities. For a more comprehensive view of my professional experience, please visit my LinkedIn profile.
