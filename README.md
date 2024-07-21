@@ -2,6 +2,10 @@
 
 After a year and a half of working as a junior software developer, I’ve decided it’s time to shake things up with some personal projects and dive into new technologies just for fun. Finishing my degree left me feeling a bit overwhelmed, and I didn’t get much chance to play around with new ideas. Now, I’m excited to break free from that grind and explore cool projects, experiment with different tech, and really have some fun with what I’ve learned! (July 2024)
 
+---
+
+> **Disclaimer:** This GitHub profile represents my personal projects and explorations. The content here is not necessarily reflective of my professional work or current job responsibilities. For a more comprehensive view of my professional experience, please visit my LinkedIn profile.
+
 ## 🚀 What I’m Working On
 
 - Building personal projects that leverage new technologies and concepts.
@@ -19,7 +23,3 @@ Feel free to reach out if you want to collaborate on a project or just chat abou
 
 - **Email:** [ste.vejvoda@gmail.com](mailto:ste.vejvoda@gmail.com)
 - **LinkedIn:** [Štěpán Vejvoda](https://www.linkedin.com/in/stepan-vejvoda)
-
----
-
-> **Disclaimer:** This GitHub profile represents my personal projects and explorations. The content here is not necessarily reflective of my professional work or current job responsibilities. For a more comprehensive view of my professional experience, please visit my LinkedIn profile.
